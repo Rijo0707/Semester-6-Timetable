@@ -1,0 +1,82 @@
+a{
+  text-decoration: none;
+  text-align: center;
+  color:black;
+}
+.main-heading{
+  text-align: center;
+  margin:0 auto 20px auto;
+  font-weight:bold;
+  font-size:45px;
+  text-decoration: underline;
+}
+a:hover{
+  color:#f0f0f0;
+}
+.time-heading{
+  color:#f0f0f0;
+  background-color:#4894ff;
+  font-weight:bold;
+  font-size:20px;
+}
+.time{
+  color:#f0f0f0;
+  background-color:#616161;
+}
+.dayord{
+  background-color:#b4b4b4;
+}
+.row{
+  clear:left;
+}
+.elements{
+  height:50px;
+  width:90px;
+  padding:10px;
+  float: left;
+  overflow-x:hidden;
+  text-align: center;
+  /* padding:10px; */
+  /* margin:1px 1px; */
+  border: 1px solid;
+}
+.compre:hover{
+  background-color:red;
+  text-color:#f0f0f0;
+}
+.embed:hover{
+  background-color:#ffa500;
+  text-color:#f0f0f0;
+}
+.esp:hover{
+  background-color:#489414;
+  text-color:#f0f0f0;
+}
+.aies:hover{
+  background-color:#ffde3d;
+  text-color:#f0f0f0;
+}
+.dbms:hover{
+  background-color:#4894ff;
+  text-color:#f0f0f0;
+}
+.sem2:hover{
+  background-color:#ff7c00;
+  text-color:#f0f0f0;
+}
+.math:hover{
+  background-color:#0000a4;
+  text-color:#f0f0f0;
+}
+.art:hover{
+  background-color:#a900a4;
+  text-color:#f0f0f0;
+}
+.iot:hover{
+  background-color:#ff0000;
+  text-color:#f0f0f0;
+}
+.compiler:hover{
+  background-color:#00ff00;
+  text-color:#f0f0f0;
+}
